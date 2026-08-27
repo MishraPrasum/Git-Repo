@@ -1,2 +1,2 @@
 # Git-Repo
-This is repo is for git works. This repo will act as source of it git works. 
+This repo is for Git work. This repo will act as a source of Git work. 
